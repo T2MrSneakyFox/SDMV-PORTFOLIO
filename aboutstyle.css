@@ -1,3 +1,46 @@
+body {
+    background-color: #404041;
+    opacity: 19;
+}
+
+p {
+    color: white;
+    font-family: "Gotham Light", monospace;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html {
+    width: 90%;
+    background-color: #000000;
+}
+.css {
+    width: 80%;
+    background-color: #000000;
+}
+.js {
+    width: 65%;
+    background-color: #000000;
+}
+.php {
+    width: 60%;
+    background-color: #000000;
+}
+
 .navbar{
     overflow: hidden;
     background-color: #878787;
@@ -18,7 +61,7 @@
 }
 
 a:hover{
-    background-color: #878787;
+    background-color: #878787;;
     color: white;
     font-family: "Gotham Light", monospace;
 }
