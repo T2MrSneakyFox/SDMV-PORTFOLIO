@@ -1,3 +1,12 @@
+body {
+  background-color: #404041;
+  opacity: 19;
+}
+
+p {
+  color: white;
+}
+
 /* Make sure that padding behaves as expected */
 * {
   box-sizing: border-box;
@@ -6,7 +15,7 @@
 /* Container for skill bars */
 .container {
   width: 100%; /* Full width */
-  background-color: #ddd; /* Grey background */
+  background-color: rgb(255, 255, 255); /* Grey background */
 }
 
 .skills {
@@ -18,17 +27,17 @@
 
 .html {
   width: 90%;
-  background-color: #04aa6d;
+  background-color: #000000;
 } /* Green */
 .css {
   width: 80%;
-  background-color: #2196f3;
+  background-color: #000000;
 } /* Blue */
 .js {
   width: 65%;
-  background-color: #f44336;
+  background-color: #000000;
 } /* Red */
 .php {
   width: 60%;
-  background-color: #808080;
+  background-color: #000000;
 } /* Dark Grey */
