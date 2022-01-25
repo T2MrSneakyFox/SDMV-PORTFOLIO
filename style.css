@@ -65,7 +65,7 @@ a:hover{
 }
 
 body {
-    background-color: gray;
+    background-color: white;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -172,3 +172,11 @@ input[name="r"] {
 #r6:checked ~ .s1 {
     margin-left: -100%;
 }
+
+.header{
+    overflow: hidden;
+    padding: 4px 2px;
+    background-color: #404041;
+    color: white;
+}
+

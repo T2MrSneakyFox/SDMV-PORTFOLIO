@@ -106,3 +106,10 @@ a:hover{
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+.header{
+    overflow: hidden;
+    padding: 4px 2px;
+    background-color: #404041;
+    color: white;
+}
