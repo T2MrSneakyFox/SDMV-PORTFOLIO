@@ -1,0 +1,8 @@
+footer {
+  overflow: hidden;
+  background-color: #878787;
+  display: flex;
+  margin: 0 auto;
+  padding: 10px 0;
+  justify-content: center;
+}
